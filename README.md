@@ -7,7 +7,7 @@ for running the code install:
 pip install folium
 pip install pandas
 
-download the dataset from the repository
+download the dataset from my repository
 
 run the following command in the cmd inside the directory where python file and dataset is present
 
